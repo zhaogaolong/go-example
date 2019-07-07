@@ -1,2 +1,3 @@
 # go-example
-golang code example
+
+golang 的例子仓库
